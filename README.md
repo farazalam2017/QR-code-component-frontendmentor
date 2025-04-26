@@ -26,8 +26,8 @@ Mobile Version
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/farazalam2017/QR-code-component-frontendmentor)
+- Live Site URL: [Live](https://qr-code-component-farazalam2017.netlify.app/)
 
 ## My process
 
@@ -39,9 +39,7 @@ Mobile Version
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+Since i amy attempting to attempt these challenges quite few time but fail everytime but now finally i have completed one challenge. Code snippet which are helpful are:-
 
 ```html
 <h3>Hero of my html page</h3>
@@ -65,7 +63,7 @@ In this project in past few years for the first time i was able to make somethin
 
 ### Useful resources
 
-- [Google](https://www.google.com) - This is the OG for those fancy tutorial on you tube. If get stuck somewhere just google things up and try to get your desired one by searching things and reading a lot don't get overwhelemed and frustrated, it is part of learning 🏫
+- [Google](https://www.google.com) - This is the OG for those fancy tutorial on you tube. If get stuck somewhere just google things up and try to get your desired one by searching things and reading a lot don't get overwhelmed and frustrated, it is part of learning 🏫
 
 ## Author
 
